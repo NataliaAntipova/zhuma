@@ -1,0 +1,38 @@
+.menu a
+{
+	text-decoration: none;
+	color: orange;
+}
+
+header
+{
+	text-align: justify; letter-spacing: 3px;
+	height: 10em;
+	 padding: 2em 10%; 
+	 background-image: url("http://static10.tgcnt.ru/posts/_0/de/de88210b3dbdad42fd0bd6492effd84a.jpg");
+	 color:darkgreen; 
+	 padding-bottom: 40px;
+	  /*margin: -10px;*/
+}
+
+.header hl,
+header .nav
+{
+	display: inline-block;
+}
+
+.active
+{
+	text-decoration: none; 
+	color: red;
+}
+
+.menu a: hover
+{
+	color: red;
+}
+
+.menu a:active
+{
+	color: orange;
+}

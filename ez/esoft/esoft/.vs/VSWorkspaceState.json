@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net6.0-windows",
+    "\\bin\\Release",
+    "\\bin\\Release\\net6.0-windows",
+    "\\obj",
+    "\\Pages"
+  ],
+  "SelectedNode": "\\Pages\\AuthPage.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}

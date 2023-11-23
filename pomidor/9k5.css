@@ -1,0 +1,41 @@
+}
+
+.menu a
+{
+	text-decoration: none;
+	color: orange;
+}
+
+.hedbut
+{
+	background-color: rgb(170, 170, 236);
+	text-align: center;
+	padding: 15px 32px;
+	margin-right: 10px;
+	margin-left: 1000px;
+	width: 300px;
+	height: 150px;
+	margin-bottom: 40px;
+}
+
+.header hl,
+header .nav
+{
+	display: inline-block;
+}
+
+.active
+{
+	text-decoration: none; 
+	color: red;
+}
+
+.menu a: hover
+{
+	color: red;
+}
+
+.menu a:active
+{
+	color: orange;
+}
